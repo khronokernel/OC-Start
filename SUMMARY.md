@@ -1,4 +1,4 @@
 # Table of contents
 
-* [README](README.md)
+* [Getting Started with OpenCore](README.md)
 

@@ -1,19 +1,32 @@
-# README
+---
+description: A starting point on your OpenCore journey
+---
 
-## Getting Started With OpenCore
+# Getting Started with OpenCore
 
-A brief guide to using the OpenCore boot-loader for hackintoshes
+## OpenCore resources
 
-**This guide has now been deprecated, please see the OpenCore Vanilla Desktop Guide as this is much more up-to-date**
+* \*\*\*\*[OpenCore Vanilla Desktop Guide](https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/)
+* [Official OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
 
-## [OpenCore Vanilla Desktop Guide](https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/)
+## Hardware resources
 
-For those who'd like to see the old guide, go to the last commit before this: [91fcb35](https://github.com/khronokernel/Getting-Started-With-OpenCore/tree/91fcb35914790c0b66228e5023deb608f37b1d0d) And thank you for those who've helped out:
+Mainly used for checking if your hardware is supported:
 
-* [icedterminal](https://github.com/icedterminal) for heavy edits
-* [vit9696](https://github.com/vit9696) for the many corrections
+* [GPU Buyers Guide](https://khronokernel-3.gitbook.io/catalina-gpu-buyers-guide/)
+* * Supported GPUs
+* [Wireless Buyers Guide](https://khronokernel-7.gitbook.io/wireless-buyers-guide/)
+* * Supported Wireless cards
+* [Anti-Hackintosh Buyers Guide](https://khronokernel-5.gitbook.io/anti-hackintosh-buyers-guide/)
+* * Hardware to avoid
 
-Couldn't have done it without them and the community
+## Troubleshooting
 
-* Mykola Grymalyuk
+* [OpenCore Guide's troubleshooting page](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/troubleshooting/troubleshooting)
+
+
+
+
+
+
 
