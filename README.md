@@ -4,10 +4,14 @@ description: A starting point on your OpenCore journey
 
 # Getting Started with OpenCore
 
-## OpenCore resources
+## OpenCore Guides
 
 * [OpenCore Vanilla Desktop Guide](https://khronokernel.github.io/Opencore-Vanilla-Desktop-Guide/)
-* [Official OpenCore documentation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
+
+## Official Opencore Documentation
+
+* [Configuration manual](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
+* [Version Differences manual](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Differences/Differences.pdf)
 
 ## Hardware resources
 
